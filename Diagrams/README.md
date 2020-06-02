@@ -26,7 +26,7 @@
 Последовательность выполнения поискового запроса:
 
 <p align="center">
-  <img src="https://github.com/R3g3m/TRTPO/blob/master/Diagrams/sequence_search_d.PNG">
+  <img src="https://github.com/R3g3m/TRTPO/blob/master/Diagrams/sequense_search_d.PNG">
 </p>
 
 
@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/R3g3m/TRTPO/blob/master/Diagrams/images/action_order_d.PNG">
+  <img src="https://github.com/R3g3m/TRTPO/blob/master/Diagrams/action_order_d.PNG">
 </p>
 
 <a name="1.3"/>
