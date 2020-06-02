@@ -18,26 +18,32 @@
 
 Формирование заказа пользователем:
 
-![Работа с пользовательскими данными](/sequance_order_d.png)
+<p align="center">
+  <img src="https://github.com/R3g3m/TRTPO/blob/master/Diagrams/sequence_order_d.PNG">
+</p>
+
 
 Последовательность выполнения поискового запроса:
 
-![Поиск](/sequance_search_d.png)
+<p align="center">
+  <img src="https://github.com/R3g3m/TRTPO/blob/master/Diagrams/sequence_search_d.PNG">
+</p>
+
 
 <a name="1.2"/>
 
 ##  1.2. Диаграммы активности
 
 <p align="center">
-  <img src="https://github.com/R3g3m/TRTPO/blob/diagram/Diagrams/action_catalog_d.png">
+  <img src="https://github.com/R3g3m/TRTPO/blob/master/Diagrams/action_catalog_d.PNG">
 </p>
 
 <p align="center">
-  <img src="https://github.com/R3g3m/TRTPO/blob/diagram/Diagrams/action_reg_d.png">
+  <img src="https://github.com/R3g3m/TRTPO/blob/master/Diagrams/action_reg_d.PNG">
 </p>
 
 <p align="center">
-  <img src="https://github.com/R3g3m/TRTPO/blob/diagram/Diagrams/images/action_order_d.png">
+  <img src="https://github.com/R3g3m/TRTPO/blob/master/Diagrams/images/action_order_d.PNG">
 </p>
 
 <a name="1.3"/>
@@ -45,7 +51,7 @@
 ##  1.3. Диаграммы состояний
 
 <p align="center">
-  <img src="https://github.com/R3g3m/TRTPO/blob/diagram/Diagrams/use_d.png">
+  <img src="https://github.com/R3g3m/TRTPO/blob/master/Diagrams/use_d.png">
 </p>
 
 #  2. Моделирование статической структуры системы
@@ -55,17 +61,22 @@
 ##  2.1. Диаграмма классов
 
 <p align="center">
-  <img src="https://github.com/R3g3m/TRTPO/blob/diagram/Diagrams/class_d.png">
+  <img src="https://github.com/R3g3m/TRTPO/blob/master/Diagrams/class_d.PNG">
 </p>
 
 <a name="2.2"/>
 
 ##  2.2. Диаграмма компонентов
 
-![Диаграмма компонентов](component_d.png)
+<p align="center">
+  <img src="https://github.com/R3g3m/TRTPO/blob/master/Diagrams/component_d.png">
+</p>
+
 
 <a name="2.3"/>
 
 ##  2.3. Диаграмма развёртывания
 
-![Диаграмма развёртывания](deployment_d.png)
+<p align="center">
+  <img src="https://github.com/R3g3m/TRTPO/blob/master/Diagrams/deployment_d.PNG">
+</p>
